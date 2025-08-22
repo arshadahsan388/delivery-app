@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "dart-code.flutter",
+        "dart-code.dart-code",
+        "ms-vscode.vscode-json",
+        "bradlc.vscode-tailwindcss",
+        "usernamehw.errorlens",
+        "christian-kohler.path-intellisense",
+        "streetsidesoftware.code-spell-checker",
+        "formulahendry.auto-rename-tag",
+        "ms-vscode.hexeditor",
+        "github.copilot",
+        "github.copilot-chat"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "dart.enableSdkFormatter": true,
+    "dart.lineLength": 80,
+    "dart.insertArgumentPlaceholders": false,
+    "dart.updateImportsOnRename": true,
+    "dart.analysisServerFolding": true,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.showDartPadSampleCodeLens": true,
+    "dart.completeFunctionCalls": true,
+    "dart.renameFilesWithClasses": "prompt",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off",
+        "editor.rulers": [80]
+    },
+    "flutter.checkForSdkUpdates": true,
+    "flutter.hotReloadOnSave": "manual",
+    "flutter.debugExternalLibraries": false,
+    "flutter.debugSdkLibraries": false,
+    "flutter.openDevTools": "flutter",
+    "flutter.showDartDeveloperLogs": true,
+    "emmet.includeLanguages": {
+        "dart": "html"
+    },
+    "files.associations": {
+        "*.arb": "json"
+    }
+}
