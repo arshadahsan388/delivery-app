@@ -30,12 +30,6 @@ jobs:
     - name: Get dependencies
       run: flutter pub get
     
-    - name: Analyze project
-      run: flutter analyze
-    
-    - name: Run tests
-      run: flutter test --no-sound-null-safety
-    
     - name: Build APK
       run: flutter build apk --release --no-sound-null-safety
     

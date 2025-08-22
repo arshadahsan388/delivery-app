@@ -1,6 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
-import '../lib/models/category_model.dart';
+import 'package:local_express/models/category_model.dart';
 
 void main() {
   test('CategoryModel fromJson handles null values properly', () {

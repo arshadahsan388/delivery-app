@@ -14,9 +14,9 @@ class ShopCard extends StatelessWidget {
     super.key,
     required this.name,
     required this.description,
+    required this.onTap,
     this.imageUrl,
     this.rating = 0.0,
-    required this.onTap,
     this.isCompact = false,
   });
 
